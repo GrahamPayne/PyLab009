@@ -212,7 +212,7 @@ def main_menu():
 
 
 def main():
-    key_books = ('books/War_and_Peace.txt', 'books/Moby_Dick.txt', 'books/Dracula.txt')
+    key_books = ('books/War_and_Peace.txt.txt', 'books/Moby_Dick.txt', 'books/Dracula.txt')
     code_book_path = 'code_books/dmdwp.txt'
     rev_code_book_path = 'code_books/dmdwp_r.txt'
     while True:
